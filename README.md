@@ -12,7 +12,7 @@
 >The generating polynomial is given by *G(x) = x(16) + x(12) + x(5) + x(1)*.
 
 ---
-copyright (C) 2016.
+copyright (C) 2016
 
 If you have any question, please contact : maoxiaoke@outlook.com
 
